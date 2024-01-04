@@ -7,9 +7,9 @@
 
 - 🎓 I am currently pursuing my **Bachelor of Technology in Computer Science**.
 
-- 🌱 I’m currently learning **MERN Stack Development.**
+- 🌱 I’m currently learning **Web Development.**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://shobhitshrivastava.netlify.app/)**
+<!--- 👨‍💻 All of my projects are available at **[My Portfolio](https://shobhitshrivastava.netlify.app/)**-->
 
 - 📫 How to reach me **shobhitshrivastava089@gmail.com**
 

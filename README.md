@@ -8,6 +8,7 @@
 - 🎓 I have completed my **Bachelor of Technology in Computer Science**.
 
 - 💼 I’m currently working at Zignuts Technolab as a **full-stack developer**
+- " I'm passionate frontend developer with a focus on building scalable and responsive web applications. I have extensive experience in front-end as well as in backend technologies such as HTML, CSS, and JavaScript, along with expertise in popular frameworks like React.js, Node.js, Express.js,Sails.js and Nest.js."
 
 <!--- 👨‍💻 All of my projects are available at **[My Portfolio](https://shobhitshrivastava.netlify.app/)**-->
 
@@ -32,13 +33,13 @@
 
 <br/>
 
-<p align="center">
+<!--<p align="center">
     <a href="https://github.com/ShobhitShrivastava089/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="shobhit's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ShobhitShrivastava089&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
-</p>
+</p>-->
 
-## 📊 My Github Stats
+<!--## 📊 My Github Stats
 
   <br/>
   <a href =""> <img height = "185rem" alt="Shobhit Shrivastava Github Stats" src="https://github-readme-stats.vercel.app/api?username=ShobhitShrivastava089&show_icons=true&coun_private=true&theme=react&hide_border=true&bg_color=0D1117" /> </a>
@@ -46,7 +47,7 @@
   <br/>
 
 
-<br/>
+<br/> -->
 
 ## Connect with me:
 <p align="left">

@@ -1,13 +1,13 @@
 
 <h1 align="center">Hi <!--<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">-->,I'm Shobhit</h1>
-<h3 align="center">❤️ to do programming.</h3>
-
+<!-- <h3 align="center">❤️ to do programming.</h3>
+ -->
 
 ## 🙋‍♂️ About Me
 
-- 🎓 I am currently pursuing my **Bachelor of Technology in Computer Science**.
+- 🎓 I have completed my **Bachelor of Technology in Computer Science**.
 
-- 🌱 I’m currently learning **Web Development.**
+- 💼 I’m currently working at Zignuts Technolab as a **full-stack developer**
 
 <!--- 👨‍💻 All of my projects are available at **[My Portfolio](https://shobhitshrivastava.netlify.app/)**-->
 
